@@ -1,0 +1,77 @@
+$ git --version
+
+check user set or Note:  git config --global user.name
+
+
+or not set : git config --global user.name "karn bhushna"
+
+           : git config --global user.email "karn.becs.13@gmail.com"
+
+
+
+chekc email set or not : git config --global user.email
+
+
+edit : git config  -- global --edit
+
+
+cd => folder
+
+git init 
+
+
+ls 
+
+ls -a
+
+=====
+
+
+git status => modification 
+
+git add  . =>staging area
+
+git commit -m "initial commit"
+
+fish shell
+
+====
+
+git log
+
+
+======
+
+
+git checkout   wapis jane  ke liye 
+
+=========
+
+git chekout master 
+
+
+==== 
+
+git branch 
+
+
+================
+
+git branch dev  => create dev branch 
+
+
+git checkout dev => to enter in dev branch 
+
+======git  checkout -b anuj/multiply
+=======git merge anuj/multiply
+
+
+git log 
+
+=============git ignore 
+
+
+touch .gitignore
+
+===
+
